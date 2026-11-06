@@ -1,0 +1,12 @@
+# Build outputs
+evolution
+*.o
+*.out
+build/
+bin/
+
+# Logs and local IDE files
+*.log
+.DS_Store
+.vscode/
+.idea/
